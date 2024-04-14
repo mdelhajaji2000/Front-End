@@ -1,0 +1,11 @@
+div {
+    background-color: grey;
+    margin: 10px 0;
+/*  display: none;    */ /*! Hide  the Element*/
+}
+
+
+.first {
+    visibility: visible;
+    display: none;
+}

@@ -1,0 +1,11 @@
+div {
+    background-color: #eee;
+    text-align: center;
+    vertical-align: center  ;
+    direction: ltr;
+    height: 200px;
+}
+
+img {
+    vertical-align: bottom;
+}

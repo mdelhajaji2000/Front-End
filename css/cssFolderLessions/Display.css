@@ -1,0 +1,31 @@
+/*
+    -Block :
+        -Take Full width if no width 
+        -Add line break
+        -respect margin + padding + ...
+
+    -Inline :
+        -Do Not add Line Break
+        -Do not respect width , hight
+        -Do not respect Padding and Margin
+
+    -Inline-Block :
+        -Allow Elemenys after and Before
+        -Respect padding and margin
+        -
+    
+    
+*/
+
+.be1 {
+    background-color: grey;
+    padding: 10px;
+    border: 1px red solid;
+    display: inline-block;
+    margin: 10px;
+}
+
+.Block {
+    /*background: red;*/
+    margin: 10px;
+}

@@ -1,0 +1,20 @@
+div {
+    background-color: #eee;
+    width: 400px;
+    border-left: 5px solid;
+    outline: 20px solid #eee;
+    margin: 50px;
+    padding: 15px;
+}
+
+.E1 {
+    border-left-color: #cf004f;
+}
+
+.E2 {
+    visibility: hidden;
+}
+
+.E3 {
+    border-left-color: #067566;
+}
