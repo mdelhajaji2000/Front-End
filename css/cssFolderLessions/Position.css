@@ -1,0 +1,48 @@
+/* div {
+  background-color: #eee;
+  margin: 5px;
+  width: 70px;
+  border: 2px yellow solid;
+  padding: 2px;
+} */
+
+body {
+    min-height: 5000px;
+  }
+  
+  .one  {
+    background-color: red;
+    /*position: static; Default Position*/
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  
+  .two {
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+    right: 200px;
+  }
+  
+  .parent {
+    background-color: aqua;
+    width: 350px;
+    height: 340px;
+    position: relative;
+  }
+  
+  .element5 {
+    color: blue;
+    position: fixed;
+  }
+  
+  .element5 button {
+    border: none;
+    color: inherit;
+  }
+  
+  .SB {
+    position:sticky;
+    top: 0;
+  }

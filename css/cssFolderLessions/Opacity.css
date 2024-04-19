@@ -1,0 +1,14 @@
+div {
+    background-color: red;
+    margin: 10px;
+    border: 2px blue solid;
+    background-color: rgba(159, 217, 23, 0.8);
+  
+  }
+  
+  p {
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(159, 217, 23, 0);
+  }
+  
