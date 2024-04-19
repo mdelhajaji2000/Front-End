@@ -1,0 +1,12 @@
+a {
+    margin: 50%;
+    text-decoration: none;
+    background-color: rgb(28, 190, 136);
+    border-style: solid;
+    padding: 6px 10px 10px 10px;
+    color: white;
+    border-color: red;
+    border-top: 0cap;
+    border-left: 0;
+    border-right: 0;
+}

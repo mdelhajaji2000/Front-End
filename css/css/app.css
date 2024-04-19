@@ -1,5 +1,16 @@
-div {
-    background-color: #eee;
-    padding: 10px;
-    font-family:fantasy;
+.parent {
+  background-color: red;
+  padding: 10px;
+}
+.parent div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #eee;
+  width: 25%;
+  float: left;
+}
+
+.clear {
+  clear: both;
 }

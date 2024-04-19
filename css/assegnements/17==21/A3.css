@@ -1,0 +1,19 @@
+div {
+    background-color: #eee;
+    text-align: left;
+    padding: 10px;
+    width: 400px;
+    margin: 15px;
+}
+
+.t2 {
+    height: 10px;
+    overflow: hidden;
+}
+
+.t3 {
+    height: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
