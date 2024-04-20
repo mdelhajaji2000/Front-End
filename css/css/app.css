@@ -23,4 +23,5 @@ div {
 
 .three {
   background-color: blue;
+  z-index: 3;
 }
